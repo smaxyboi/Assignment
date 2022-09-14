@@ -1,0 +1,10 @@
+#Boolean
+print(10>9)
+add="nothing is easy in this world"
+print(add)
+print(type(add))
+
+name="Jerry"
+no=3
+# concatenating -> adding up two strings
+print("Hello"+name,no)
